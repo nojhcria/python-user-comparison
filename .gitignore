@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
+
+# Dados utilizados na análise
+dados/
+
+# Relatórios gerados
+resultado/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
